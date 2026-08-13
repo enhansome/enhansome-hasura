@@ -1,0 +1,442 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hasura Auth",
+          "description": "Authentication for Hasura. Email+Password, Magic Link, Providers (Google, GitHub, Facebook, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-10-10T06:47:57Z",
+            "owner": "nhost",
+            "repo": "hasura-auth",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Storage",
+          "description": "Storage for Hasura. Built on top of S3.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-09-26T10:15:39Z",
+            "owner": "nhost",
+            "repo": "hasura-storage",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Admin Hasura Adapter",
+          "description": "react-admin data provider for Hasura GraphQL (build admin interfaces with very little code)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T03:37:47Z",
+            "owner": "Steams",
+            "repo": "ra-data-hasura-graphql",
+            "stars": 212
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Connect",
+          "description": "A client library to talk to Hasura from Flutter/Dart apps",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2025-06-13T15:58:49Z",
+            "owner": "Flutterando",
+            "repo": "hasura_connect",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graphql-codegen-hasura",
+          "description": "code-generator plugins for hasura/apollo-gql/typescript development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T02:24:49Z",
+            "owner": "ablestack",
+            "repo": "graphql-codegen-hasura",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-cli",
+          "description": "Hasura CLI as an npm package",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-09-10T05:34:58Z",
+            "owner": "jjangga0214",
+            "repo": "hasura-cli",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura JWT Auth",
+          "description": "Hasura JWT auth using PostgreSQL",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2019-08-27T12:46:14Z",
+            "owner": "sander-io",
+            "repo": "hasura-jwt-auth",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Auto Tracker",
+          "description": "Configure Hasura to track tables, views and functions using configuration driven process.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T01:45:25Z",
+            "owner": "axis-tech",
+            "repo": "hasura-auto-tracker",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-supertokens",
+          "description": "A webhook implementation to connect Hasura with Supertokens for role-based authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-17T07:02:37Z",
+            "owner": "offscriptio",
+            "repo": "hasura-supertokens",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hql-tag",
+          "description": "A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T08:44:00Z",
+            "owner": "product-ride",
+            "repo": "hql-tag",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Helm chart",
+          "description": "Deploy Hasura on a Kubernetes cluster with Helm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-07-26T10:16:44Z",
+            "owner": "platyplus",
+            "repo": "platyplus",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fastify-hasura",
+          "description": "A Fastify plugin to have fun with Hasura.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-01-01T17:02:14Z",
+            "owner": "ManUtopiK",
+            "repo": "fastify-hasura",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-orm",
+          "description": "orm based request generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-06-08T09:06:22Z",
+            "owner": "timeshift92",
+            "repo": "hasura-orm",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-sdk",
+          "description": "A node wrapper for Hasura's schema and metadata API's, written in TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-06T12:34:44Z",
+            "owner": "aaronhayes",
+            "repo": "hasura-sdk",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-om",
+          "description": "Fragment based orm request generator with built in auto-table lookup and base fragment builder. Also comes with a query/mutation/subscribe libraries built in",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T18:42:51Z",
+            "owner": "mrspartak",
+            "repo": "hasura-om",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Squasher",
+          "description": "CLI utility to squash Hasura Migrations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-01-15T04:31:23Z",
+            "owner": "domasx2",
+            "repo": "hasura-squasher",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HasuraConfigurator",
+          "description": "Configure a Hasura server based on Java JPA (Hibernate) annotations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2024-08-30T14:14:28Z",
+            "owner": "dsd-sztaki-hu",
+            "repo": "hasuraconf",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-metadata-patcher",
+          "description": "CLI tool to patch Hasura file with needed objects or with another Hasura metadata file. You can use it to deploy complex CI/CD flows for applications, which are using Hasura on a backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-19T15:19:02Z",
+            "owner": "puzl-cloud",
+            "repo": "hasura-metadata-patcher",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura permissions viewer",
+          "description": "Generate an HTML summary of hasura permissions",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-11-27T11:59:33Z",
+            "owner": "SocialGouv",
+            "repo": "hasura-permissions-viewer",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Segment Source",
+          "description": "The easiest way to connect Hasura and Segment!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-12-20T00:05:20Z",
+            "owner": "aaronhayes",
+            "repo": "hasura-segment-source",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xsura",
+          "description": "Migrate data smoothly between two Hasura servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-09-15T13:27:45Z",
+            "owner": "joaom182",
+            "repo": "xsura",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Change Summary",
+          "description": "GitHub Action to generate readable Hasura metadata change summaries.",
+          "children": []
+        }
+      ],
+      "title": "Tools and Extensions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MLCraft",
+          "description": "Low-code metrics store and an Open Source alternative to Looker",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-07T23:14:35Z",
+            "owner": "synmetrix",
+            "repo": "synmetrix",
+            "stars": 623
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pet finder project with Flutter + Firebase + Hasura",
+          "description": "Pet finder project with Flutter + Firebase + Hasura",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-12-17T12:30:43Z",
+            "owner": "comerc",
+            "repo": "pet_finder",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Built with Hasura"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hasura Community",
+          "description": "Community Contributed boilerplates, example apps, and todos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T13:28:07Z",
+            "owner": "hasura",
+            "repo": "graphql-engine",
+            "stars": 32082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust Hasura",
+          "description": "Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-04-19T03:05:26Z",
+            "owner": "ronanyeah",
+            "repo": "rust-hasura",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextJS - Auth0 - Hasura",
+          "description": "Template project with NextJs, Auth0, Hasura and Apollo.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-02-13T06:37:29Z",
+            "owner": "vgrafe",
+            "repo": "nextjs-auth0-hasura",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hasura Starter",
+          "description": "A boilerplate, cheatsheet, and guide for beginners.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2020-02-22T13:11:39Z",
+            "owner": "jjangga0214",
+            "repo": "hasura-starter",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hasura-node-monolith-example",
+          "description": "Example of a monolithic web application using Hasura GraphQL Engine + Node.js + Next.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T19:16:48Z",
+            "owner": "zenflow",
+            "repo": "hasura-node-monolith-example",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulumi AWS EKS Deployment Sample",
+          "description": "A guide for deploying Hasura to AWS EKS using Pulumi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-25T10:12:19Z",
+            "owner": "aaronhayes",
+            "repo": "pulumi-hasura-aws-eks-example",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Templates and Examples"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:57:47.655Z",
+    "original_repository": "aaronhayes/awesome-hasura",
+    "original_repository_sha": "53582e199221a0d8cda3fe7adc442932af404829",
+    "enhanced_repository": "enhansome/enhansome-hasura",
+    "enhanced_repository_description": null,
+    "title": "Awesome Hasura with stars"
+  }
+}
