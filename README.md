@@ -19,7 +19,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 * [Offical Website](https://hasura.io/)
 * [Docs](https://docs.hasura.io/1.0/graphql/manual/index.html)
-* [GitHub](https://github.com/hasura/graphql-engine) ⭐ 32,082 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-11
+* [GitHub](https://github.com/hasura/graphql-engine) ⭐ 32,087 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-11
 * [Discord](https://discord.gg/hasura)
 * [Blog](https://blog.hasura.io/)
 * [YouTube](https://www.youtube.com/channel/UCZo1ciR8pZvdD3Wxp9aSNhQ)
@@ -63,7 +63,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Templates and Examples
 
-* [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) ⭐ 32,082 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-11 - Community Contributed boilerplates, example apps, and todos.
+* [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) ⭐ 32,087 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-11 - Community Contributed boilerplates, example apps, and todos.
 * [Rust Hasura](https://github.com/ronanyeah/rust-hasura) ⭐ 141 | 🐛 0 | 🌐 Rust | 📅 2022-04-19 - Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.
 * [NextJS - Auth0 - Hasura](https://github.com/vgrafe/nextjs-auth0-hasura) ⚠️ Archived - Template project with NextJs, Auth0, Hasura and Apollo.
 * [Hasura Starter](https://github.com/jjangga0214/hasura-starter) ⭐ 51 | 🐛 0 | 🌐 PLpgSQL | 📅 2020-02-22 - A boilerplate, cheatsheet, and guide for beginners.
@@ -83,4 +83,4 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
