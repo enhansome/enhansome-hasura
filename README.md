@@ -83,4 +83,4 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
