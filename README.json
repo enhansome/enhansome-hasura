@@ -336,7 +336,7 @@
             "last_commit": "2025-02-07T23:14:35Z",
             "owner": "synmetrix",
             "repo": "synmetrix",
-            "stars": 623
+            "stars": 624
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2026-08-19T16:56:27Z",
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32096
+            "stars": 32098
           }
         },
         {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T23:35:21.280Z",
+    "last_updated": "2026-08-20T23:39:19.211Z",
     "original_repository": "aaronhayes/awesome-hasura",
     "original_repository_id": 216133090,
     "original_repository_sha": "53582e199221a0d8cda3fe7adc442932af404829",
