@@ -336,7 +336,7 @@
             "last_commit": "2025-02-07T23:14:35Z",
             "owner": "synmetrix",
             "repo": "synmetrix",
-            "stars": 624
+            "stars": 623
           }
         },
         {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:34:53.612Z",
+    "last_updated": "2026-08-24T14:32:37.937Z",
     "original_repository": "aaronhayes/awesome-hasura",
     "original_repository_id": 216133090,
     "original_repository_sha": "53582e199221a0d8cda3fe7adc442932af404829",
