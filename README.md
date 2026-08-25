@@ -19,7 +19,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 * [Offical Website](https://hasura.io/)
 * [Docs](https://docs.hasura.io/1.0/graphql/manual/index.html)
-* [GitHub](https://github.com/hasura/graphql-engine) ⭐ 32,100 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19
+* [GitHub](https://github.com/hasura/graphql-engine) ⭐ 32,100 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-19
 * [Discord](https://discord.gg/hasura)
 * [Blog](https://blog.hasura.io/)
 * [YouTube](https://www.youtube.com/channel/UCZo1ciR8pZvdD3Wxp9aSNhQ)
@@ -43,7 +43,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 * [hasura-sdk](https://github.com/aaronhayes/hasura-sdk) ⭐ 24 | 🐛 21 | 🌐 TypeScript | 📅 2023-01-06 - A node wrapper for Hasura's schema and metadata API's, written in TypeScript.
 * [hasura-om](https://github.com/mrspartak/hasura-om) ⭐ 22 | 🐛 28 | 🌐 JavaScript | 📅 2023-03-04 - Fragment based orm request generator with built in auto-table lookup and base fragment builder. Also comes with a query/mutation/subscribe libraries built in
 * [Hasura Squasher](https://github.com/domasx2/hasura-squasher) ⭐ 21 | 🐛 6 | 🌐 TypeScript | 📅 2022-01-15 - CLI utility to squash Hasura Migrations
-* [HasuraConfigurator](https://github.com/beepsoft/hasuraconf) ⭐ 17 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-30 - Configure a Hasura server based on Java JPA (Hibernate) annotations
+* [HasuraConfigurator](https://github.com/beepsoft/hasuraconf) ⭐ 19 | 🐛 6 | 🌐 Kotlin | 📅 2024-08-30 - Configure a Hasura server based on Java JPA (Hibernate) annotations
 * [hasura-metadata-patcher](https://github.com/puzl-ee/hasura-metadata-patcher) ⭐ 14 | 🐛 2 | 🌐 Python | 📅 2021-12-19 - CLI tool to patch Hasura `metadata.json` file with needed objects or with another Hasura metadata file. You can use it to deploy complex CI/CD flows for applications, which are using Hasura on a backend.
 * [Hasura permissions viewer](https://github.com/socialgouv/hasura-permissions-viewer) ⭐ 12 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-27 - Generate an HTML summary of hasura permissions
 * [Hasura Segment Source](https://github.com/aaronhayes/hasura-segment-source) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2019-12-20 - The easiest way to connect Hasura and Segment!
@@ -63,7 +63,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Templates and Examples
 
-* [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) ⭐ 32,100 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-08-19 - Community Contributed boilerplates, example apps, and todos.
+* [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) ⭐ 32,100 | 🐛 2,373 | 🌐 TypeScript | 📅 2026-08-19 - Community Contributed boilerplates, example apps, and todos.
 * [Rust Hasura](https://github.com/ronanyeah/rust-hasura) ⭐ 141 | 🐛 0 | 🌐 Rust | 📅 2022-04-19 - Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.
 * [NextJS - Auth0 - Hasura](https://github.com/vgrafe/nextjs-auth0-hasura) ⚠️ Archived - Template project with NextJs, Auth0, Hasura and Apollo.
 * [Hasura Starter](https://github.com/jjangga0214/hasura-starter) ⭐ 51 | 🐛 0 | 🌐 PLpgSQL | 📅 2020-02-22 - A boilerplate, cheatsheet, and guide for beginners.
