@@ -372,7 +372,7 @@
             "last_commit": "2026-08-19T16:56:27Z",
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32100
+            "stars": 32099
           }
         },
         {
@@ -455,7 +455,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:36:40.349Z",
+    "last_updated": "2026-08-27T04:30:52.451Z",
     "original_repository": "aaronhayes/awesome-hasura",
     "original_repository_id": 216133090,
     "original_repository_sha": "53582e199221a0d8cda3fe7adc442932af404829",
