@@ -455,9 +455,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T04:30:52.451Z",
-    "original_repository": "aaronhayes/awesome-hasura",
-    "original_repository_id": 216133090,
+    "last_updated": "2026-08-27T11:42:48.403Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 216133090,
+      "language": null,
+      "last_commit": "2022-10-24T11:14:47Z",
+      "owner": "aaronhayes",
+      "repo": "awesome-hasura",
+      "stars": 230
+    },
     "original_repository_sha": "53582e199221a0d8cda3fe7adc442932af404829",
     "enhanced_repository": "enhansome/enhansome-hasura",
     "enhanced_repository_description": null,
