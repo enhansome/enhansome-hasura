@@ -52,7 +52,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Built with Hasura
 
-* [MLCraft](https://github.com/mlcraft-io/mlcraft) ⭐ 623 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-07 Low-code metrics store and an Open Source alternative to Looker
+* [MLCraft](https://github.com/mlcraft-io/mlcraft) ⭐ 624 | 🐛 9 | 🌐 JavaScript | 📅 2025-02-07 Low-code metrics store and an Open Source alternative to Looker
 * [Pet finder project with Flutter + Firebase + Hasura](https://github.com/comerc/pet_finder) ⭐ 67 | 🐛 1 | 🌐 Dart | 📅 2023-12-17 Pet finder project with Flutter + Firebase + Hasura
 
 ## Tutorials
@@ -83,4 +83,4 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._

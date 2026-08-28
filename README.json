@@ -16,7 +16,8 @@
             "owner": "nhost",
             "repo": "hasura-auth",
             "stars": 404
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "nhost",
             "repo": "hasura-storage",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Steams",
             "repo": "ra-data-hasura-graphql",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Flutterando",
             "repo": "hasura_connect",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ablestack",
             "repo": "graphql-codegen-hasura",
             "stars": 156
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "jjangga0214",
             "repo": "hasura-cli",
             "stars": 91
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "sander-io",
             "repo": "hasura-jwt-auth",
             "stars": 84
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "axis-tech",
             "repo": "hasura-auto-tracker",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "offscriptio",
             "repo": "hasura-supertokens",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "product-ride",
             "repo": "hql-tag",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "platyplus",
             "repo": "platyplus",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "ManUtopiK",
             "repo": "fastify-hasura",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "timeshift92",
             "repo": "hasura-orm",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "aaronhayes",
             "repo": "hasura-sdk",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "mrspartak",
             "repo": "hasura-om",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "domasx2",
             "repo": "hasura-squasher",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "dsd-sztaki-hu",
             "repo": "hasuraconf",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "puzl-cloud",
             "repo": "hasura-metadata-patcher",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "SocialGouv",
             "repo": "hasura-permissions-viewer",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "aaronhayes",
             "repo": "hasura-segment-source",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "joaom182",
             "repo": "xsura",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         }
       ],
       "title": "Tools and Extensions"
@@ -336,8 +357,9 @@
             "last_commit": "2025-02-07T23:14:35Z",
             "owner": "synmetrix",
             "repo": "synmetrix",
-            "stars": 623
-          }
+            "stars": 624
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "comerc",
             "repo": "pet_finder",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         }
       ],
       "title": "Built with Hasura"
@@ -373,7 +396,8 @@
             "owner": "hasura",
             "repo": "graphql-engine",
             "stars": 32099
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "ronanyeah",
             "repo": "rust-hasura",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "vgrafe",
             "repo": "nextjs-auth0-hasura",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "jjangga0214",
             "repo": "hasura-starter",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "zenflow",
             "repo": "hasura-node-monolith-example",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         },
         {
           "node_type": "item",
@@ -448,14 +476,15 @@
             "owner": "aaronhayes",
             "repo": "pulumi-hasura-aws-eks-example",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T06:55:45.407Z"
         }
       ],
       "title": "Templates and Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:42:48.403Z",
+    "last_updated": "2026-08-28T06:55:45.407Z",
     "original_repository_info": {
       "archived": false,
       "id": 216133090,
