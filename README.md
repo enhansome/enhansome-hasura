@@ -19,7 +19,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 * [Offical Website](https://hasura.io/)
 * [Docs](https://docs.hasura.io/1.0/graphql/manual/index.html)
-* [GitHub](https://github.com/hasura/graphql-engine) ⭐ 32,122 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-09-21
+* [GitHub](https://github.com/hasura/graphql-engine) ⭐ 32,121 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-09-21
 * [Discord](https://discord.gg/hasura)
 * [Blog](https://blog.hasura.io/)
 * [YouTube](https://www.youtube.com/channel/UCZo1ciR8pZvdD3Wxp9aSNhQ)
@@ -37,7 +37,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 * [Hasura Auto Tracker](https://github.com/axis-tech/hasura-auto-tracker) ⚠️ Archived - Configure Hasura to track tables, views and functions using configuration driven process.
 * [hasura-supertokens](https://github.com/offscriptio/hasura-supertokens) ⭐ 45 | 🐛 10 | 🌐 TypeScript | 📅 2023-01-17 - A webhook implementation to connect Hasura with [Supertokens](https://supertokens.io/) for role-based authentication.
 * [hql-tag](https://github.com/product-ride/hql-tag) ⭐ 42 | 🐛 23 | 🌐 JavaScript | 📅 2023-01-06 - A Hasura wrapper on graphql-tag that helps in writing clean & elegant queries
-* [Hasura Helm chart](https://github.com/platyplus/platyplus/tree/master/charts/hasura) ⭐ 37 | 🐛 5 | 🌐 TypeScript | 📅 2022-07-26 - Deploy Hasura on a [Kubernetes](https://kubernetes.io/) cluster with [Helm](https://helm.sh/).
+* [Hasura Helm chart](https://github.com/platyplus/platyplus/tree/master/charts/hasura) ⭐ 38 | 🐛 5 | 🌐 TypeScript | 📅 2022-07-26 - Deploy Hasura on a [Kubernetes](https://kubernetes.io/) cluster with [Helm](https://helm.sh/).
 * [fastify-hasura](https://github.com/ManUtopiK/fastify-hasura) ⭐ 31 | 🐛 10 | 🌐 JavaScript | 📅 2025-01-01 - A Fastify plugin to have fun with Hasura.
 * [hasura-orm](https://github.com/timeshift92/hasura-orm) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2021-06-08 - orm based request generator
 * [hasura-sdk](https://github.com/aaronhayes/hasura-sdk) ⭐ 24 | 🐛 21 | 🌐 TypeScript | 📅 2023-01-06 - A node wrapper for Hasura's schema and metadata API's, written in TypeScript.
@@ -63,7 +63,7 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ## Templates and Examples
 
-* [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) ⭐ 32,122 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-09-21 - Community Contributed boilerplates, example apps, and todos.
+* [Hasura Community](https://github.com/hasura/graphql-engine/tree/master/community) ⭐ 32,121 | 🐛 2,374 | 🌐 TypeScript | 📅 2026-09-21 - Community Contributed boilerplates, example apps, and todos.
 * [Rust Hasura](https://github.com/ronanyeah/rust-hasura) ⭐ 141 | 🐛 0 | 🌐 Rust | 📅 2022-04-19 - Boilerplate/example of using Rust as a Remote Schema. It features login, signup, JWT, hashed passwords and typesafe requests.
 * [NextJS - Auth0 - Hasura](https://github.com/vgrafe/nextjs-auth0-hasura) ⚠️ Archived - Template project with NextJs, Auth0, Hasura and Apollo.
 * [Hasura Starter](https://github.com/jjangga0214/hasura-starter) ⭐ 52 | 🐛 0 | 🌐 PLpgSQL | 📅 2020-02-22 - A boilerplate, cheatsheet, and guide for beginners.
@@ -83,4 +83,4 @@ Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
