@@ -635,7 +635,7 @@
             "open_issues": 2375,
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32123,
+            "stars": 32124,
             "topics": [
               "access-control",
               "api",
@@ -798,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T01:38:41.213Z",
+    "last_updated": "2026-09-29T02:34:13.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things relating to the hasura ecosystem.",
