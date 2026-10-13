@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "nhost",
             "repo": "hasura-auth",
-            "stars": 403,
+            "stars": 402,
             "topics": [
               "authentication",
               "backend",
@@ -56,7 +56,7 @@
             "open_issues": 6,
             "owner": "nhost",
             "repo": "hasura-storage",
-            "stars": 227,
+            "stars": 226,
             "topics": [
               "files",
               "hasura",
@@ -631,11 +631,11 @@
             "id": 137724480,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T17:40:04Z",
-            "open_issues": 2367,
+            "last_commit": "2026-10-12T10:58:00Z",
+            "open_issues": 2368,
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32126,
+            "stars": 32130,
             "topics": [
               "access-control",
               "api",
@@ -798,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T02:22:58.218Z",
+    "last_updated": "2026-10-13T03:32:47.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things relating to the hasura ecosystem.",
