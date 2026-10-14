@@ -564,7 +564,7 @@
             "open_issues": 9,
             "owner": "synmetrix",
             "repo": "synmetrix",
-            "stars": 630,
+            "stars": 628,
             "topics": [
               "big-data",
               "bigquery",
@@ -635,7 +635,7 @@
             "open_issues": 2368,
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32130,
+            "stars": 32133,
             "topics": [
               "access-control",
               "api",
@@ -798,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:32:47.720Z",
+    "last_updated": "2026-10-14T01:54:01.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things relating to the hasura ecosystem.",
