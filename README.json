@@ -632,10 +632,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-11-19T23:32:33Z",
-            "open_issues": 2343,
+            "open_issues": 2357,
             "owner": "hasura",
             "repo": "graphql-engine",
-            "stars": 32129,
+            "stars": 32128,
             "topics": [
               "access-control",
               "api",
@@ -798,7 +798,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T03:57:54.793Z",
+    "last_updated": "2026-11-22T03:09:04.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things relating to the hasura ecosystem.",
